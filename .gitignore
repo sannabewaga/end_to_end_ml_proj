@@ -71,6 +71,11 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Ignore virtual environment
+venv/
+virtenv/
+.env/
+
 # PyBuilder
 .pybuilder/
 target/
