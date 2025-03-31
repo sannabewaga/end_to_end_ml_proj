@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 
 class CustomException(Exception):
     """Custom exception class to capture errors with detailed information."""
